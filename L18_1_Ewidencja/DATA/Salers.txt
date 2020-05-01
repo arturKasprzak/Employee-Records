@@ -1,0 +1,3 @@
+Anna;Nowak;100;10;70000
+Jan;Kowalski;100;10;80000
+Tomasz;Abacki;100;10;120000

@@ -1,0 +1,16 @@
+C:\DOKUMENT\_UCZELNIA\_Helion_kurs\Konspekt\_moje_materialy\Kody źródłowe\L18_1_Ewidencja\L18_1_Ewidencja\bin\Debug\L18_1_Ewidencja.exe.config
+C:\DOKUMENT\_UCZELNIA\_Helion_kurs\Konspekt\_moje_materialy\Kody źródłowe\L18_1_Ewidencja\L18_1_Ewidencja\obj\Debug\L18_1_Ewidencja.csprojResolveAssemblyReference.cache
+C:\DOKUMENT\_UCZELNIA\_Helion_kurs\Konspekt\_moje_materialy\Kody źródłowe\L18_1_Ewidencja\L18_1_Ewidencja\bin\Debug\L18_1_Ewidencja.exe
+C:\DOKUMENT\_UCZELNIA\_Helion_kurs\Konspekt\_moje_materialy\Kody źródłowe\L18_1_Ewidencja\L18_1_Ewidencja\bin\Debug\L18_1_Ewidencja.pdb
+C:\DOKUMENT\_UCZELNIA\_Helion_kurs\Konspekt\_moje_materialy\Kody źródłowe\L18_1_Ewidencja\L18_1_Ewidencja\obj\Debug\L18_1_Ewidencja.exe
+C:\DOKUMENT\_UCZELNIA\_Helion_kurs\Konspekt\_moje_materialy\Kody źródłowe\L18_1_Ewidencja\L18_1_Ewidencja\obj\Debug\L18_1_Ewidencja.pdb
+C:\DOKUMENT\_UCZELNIA\_Helion_kurs\Konspekt\_moje_materialy\Kody_źródłowe_rozdziały_12_18\L18_1_Ewidencja\L18_1_Ewidencja\bin\Debug\L18_1_Ewidencja.exe.config
+C:\DOKUMENT\_UCZELNIA\_Helion_kurs\Konspekt\_moje_materialy\Kody_źródłowe_rozdziały_12_18\L18_1_Ewidencja\L18_1_Ewidencja\obj\Debug\L18_1_Ewidencja.exe
+C:\DOKUMENT\_UCZELNIA\_Helion_kurs\Konspekt\_moje_materialy\Kody_źródłowe_rozdziały_12_18\L18_1_Ewidencja\L18_1_Ewidencja\obj\Debug\L18_1_Ewidencja.pdb
+D:\Documents\Programming\During\Język C#. Kurs video. Poziom pierwszy. Programowanie dla początkujących\Materiały_dodatkowe\Kody_źródłowe_rozdziały_12_18\L18_1_Ewidencja\L18_1_Ewidencja\bin\Debug\L18_1_Ewidencja.exe.config
+D:\Documents\Programming\During\Język C#. Kurs video. Poziom pierwszy. Programowanie dla początkujących\Materiały_dodatkowe\Kody_źródłowe_rozdziały_12_18\L18_1_Ewidencja\L18_1_Ewidencja\bin\Debug\L18_1_Ewidencja.exe
+D:\Documents\Programming\During\Język C#. Kurs video. Poziom pierwszy. Programowanie dla początkujących\Materiały_dodatkowe\Kody_źródłowe_rozdziały_12_18\L18_1_Ewidencja\L18_1_Ewidencja\bin\Debug\L18_1_Ewidencja.pdb
+D:\Documents\Programming\During\Język C#. Kurs video. Poziom pierwszy. Programowanie dla początkujących\Materiały_dodatkowe\Kody_źródłowe_rozdziały_12_18\L18_1_Ewidencja\L18_1_Ewidencja\obj\Debug\L18_1_Ewidencja.csprojAssemblyReference.cache
+D:\Documents\Programming\During\Język C#. Kurs video. Poziom pierwszy. Programowanie dla początkujących\Materiały_dodatkowe\Kody_źródłowe_rozdziały_12_18\L18_1_Ewidencja\L18_1_Ewidencja\obj\Debug\L18_1_Ewidencja.csproj.CoreCompileInputs.cache
+D:\Documents\Programming\During\Język C#. Kurs video. Poziom pierwszy. Programowanie dla początkujących\Materiały_dodatkowe\Kody_źródłowe_rozdziały_12_18\L18_1_Ewidencja\L18_1_Ewidencja\obj\Debug\L18_1_Ewidencja.exe
+D:\Documents\Programming\During\Język C#. Kurs video. Poziom pierwszy. Programowanie dla początkujących\Materiały_dodatkowe\Kody_źródłowe_rozdziały_12_18\L18_1_Ewidencja\L18_1_Ewidencja\obj\Debug\L18_1_Ewidencja.pdb

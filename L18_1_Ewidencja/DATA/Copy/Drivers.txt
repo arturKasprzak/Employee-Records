@@ -1,0 +1,6 @@
+Adam;Nycz;100;10;6000
+Jan;Dym;100;10;5000
+Tomasz;Kowalski;100;10;10000
+Dariusz;Kowalski;160;15;6500
+Borys;Szumowski;178;18;12000
+Tadeusz;Znyk;120;18;4670
